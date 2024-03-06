@@ -171,3 +171,8 @@ button {
     justify-content: center;
     align-items: center;
 }
+
+.cta-button button {
+    color: white;
+    border-color: white;
+}
